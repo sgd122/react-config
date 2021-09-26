@@ -1,3 +1,5 @@
+// webpack에서 webpack.config.ts를 인식 못하는 문제
+// https://github.com/webpack/webpack.js.org/issues/2733
 {
   "compilerOptions": {
     "module": "commonjs",
